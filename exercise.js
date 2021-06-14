@@ -5,3 +5,6 @@
 function addtion(n1,n2){
     return n1 + n2;
 }
+function minus(m1, m2){
+    return m1 - m2;
+}
